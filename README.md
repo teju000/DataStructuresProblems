@@ -1,4 +1,4 @@
-Hello this is Teju from the Git HUb.
+Hello this is Teju M B from the Git HUb.
 1 hour	Morning Call on CDID scope and estimations.
 15 min	CDID Scrum
 15min 	Call with Rajat & Pankaj for QECG Finance report Access Issue.
